@@ -1,2 +1,2 @@
-# name-tags
+# name-tag-generator
 Created with CodeSandbox
